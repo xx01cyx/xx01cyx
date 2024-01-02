@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Yuanxin
 
 - I’m currently a master's student at Carnegie Mellon University, MCDS program.
-- I’m interested in database systems, and I'm learning more about streaming databases via contributing to [RisingWave](https://github.com/risingwavelabs/risingwave).
-- I'm exploring modern cloud systems and platforms like [Apache Openwhisk](https://github.com/apache/openwhisk).
+- I’m interested in database systems. I have contributed to [RisingWave](https://github.com/risingwavelabs/risingwave), a cloud-native streaming database. Now I am planning my Capstone project at CMU on database systems.
+- I'm also a Rust lover. On the way of exploring more about Rust...
